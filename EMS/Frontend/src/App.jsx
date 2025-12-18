@@ -8,7 +8,7 @@ function App() {
 
   return (
    <>
-   <div>Welcome to EMS</div>
+   <div class="text-3x1 text-teal-500">Welcome to EMS</div>
    </>
   )
 }
